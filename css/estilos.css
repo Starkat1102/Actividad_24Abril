@@ -1,0 +1,40 @@
+body{
+    background: #f0f3f5;
+    color: #fff;
+}
+
+header{
+    background: #9aca40;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.contenedoor-main{
+    margin-bottom: 2rem;
+}
+
+main{
+    background: #fff;
+    color: #424242;
+    padding: 2rem 0;
+}
+
+aside{
+    background: #dee5e8;
+    padding: 5rem 0;
+    color: #0d47a1;
+}
+
+.galeria{
+    margin-bottom: 20px;
+}
+
+.galeria > div{
+    background: #2196f3;
+    color: #fff;
+    padding: 20px;
+}
+footer{
+    padding: 20px 0;
+    background: #1e1e1e;
+}
